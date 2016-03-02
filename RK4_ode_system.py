@@ -3,7 +3,7 @@
 PHYS305
 
 Use Runge Kutta-4 to solve a system of two first-order ode's stemming from a second-order equation:
-y''(t)+\omega^2*y(t)=0, y(0)=0, y'(0)=0,
+y''(t)+\omega^2*y(t)=0,
 where \omega=1
 
 initial conditions:
